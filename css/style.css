@@ -37,17 +37,17 @@ body{
     
 }
 .loginbtn{
-    margin-left: 82vw;
+    margin-left: 80vw;
     position: relative;
-    bottom: 6vh;
+    bottom: 7vh;
     cursor: pointer;
     padding: 15px;
 }
 .right ul li a{
     /* margin: 10px; */
     /* margin-top: 30px; */
-    margin-left: 60px;
-    font-size: 22px;
+    margin-left: 48px;
+    font-size: 19px;
     color: white;
     text-decoration: none;
 }
@@ -55,13 +55,13 @@ body{
     /* margin-top: 5px; */
     margin-bottom: 10px;
     position: relative;
-    bottom: 39px;
+    bottom: 54px;
     left: 40px;
 
 }
 .search{
     background-color: rgb(243, 249, 249);
-    width: 40vw;
+    width: 42vw;
     margin-top: 15px;
     padding: 10px;
     color: black;
@@ -69,7 +69,7 @@ body{
     position: relative;
     left: 31vw;
     align-items: center;
-    font-size: 25px;
+    font-size: 19px;
 }
 .city{
     padding: 5px;
@@ -119,8 +119,8 @@ body{
 .btn1{
     cursor: pointer;
     position: relative;
-    left: 66vw;
-    bottom: 12vh;
+    left: 71vw;
+    bottom: 8vh;
     padding: 10px;
     background-color: rgb(243, 249, 249);
     border-radius: 5px;
